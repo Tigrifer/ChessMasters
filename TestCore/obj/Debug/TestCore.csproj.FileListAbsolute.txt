@@ -1,0 +1,22 @@
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\bin\Debug\TestCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\bin\Debug\TestCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\obj\Debug\TestCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\obj\Debug\TestCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\bin\Debug\ChessCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\TestCore\bin\Debug\ChessCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\bin\Debug\TestCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\bin\Debug\TestCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\bin\Debug\ChessCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\bin\Debug\ChessCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\obj\Debug\TestCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\TestCore\obj\Debug\TestCore.pdb
+I:\work\ChessMasters\TestCore\bin\Debug\TestCore.dll
+I:\work\ChessMasters\TestCore\bin\Debug\TestCore.pdb
+I:\work\ChessMasters\TestCore\bin\Debug\ChessCore.dll
+I:\work\ChessMasters\TestCore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+I:\work\ChessMasters\TestCore\bin\Debug\ChessCore.pdb
+I:\work\ChessMasters\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
+I:\work\ChessMasters\TestCore\obj\Debug\TestCore.dll
+I:\work\ChessMasters\TestCore\obj\Debug\TestCore.pdb

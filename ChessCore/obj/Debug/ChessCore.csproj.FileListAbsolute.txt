@@ -1,0 +1,12 @@
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\bin\Debug\ChessCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\bin\Debug\ChessCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\obj\Debug\ChessCore.dll
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\obj\Debug\ChessCore.pdb
+C:\Users\Tigriferum\Documents\Visual Studio 2010\Projects\ChessMasters\ChessCore\bin\Debug\ChessCore.dll.config
+I:\work\ChessMasters\ChessCore\bin\Debug\ChessCore.dll.config
+I:\work\ChessMasters\ChessCore\bin\Debug\ChessCore.dll
+I:\work\ChessMasters\ChessCore\bin\Debug\ChessCore.pdb
+I:\work\ChessMasters\ChessCore\obj\Debug\ChessCore.csprojResolveAssemblyReference.cache
+I:\work\ChessMasters\ChessCore\obj\Debug\ChessCore.dll
+I:\work\ChessMasters\ChessCore\obj\Debug\ChessCore.pdb
