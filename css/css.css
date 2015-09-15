@@ -1,0 +1,42 @@
+﻿body {
+}
+
+div.figure{width:45px;height:45px;}
+
+div.king{background:url(img/king.png);}
+div.queen{background:url(img/queen.png);}
+div.knight{background:url(img/knight.png);}
+div.pow{background:url(img/pow.png);}
+div.rook{background:url(img/rook.png);}
+div.bishop{background:url(img/bishop.png);}
+
+div.bking{background:url(img/bking.png);}
+div.bqueen{background:url(img/bqueen.png);}
+div.bknight{background:url(img/bknight.png);}
+div.bpow{background:url(img/bpow.png);}
+div.brook{background:url(img/brook.png);}
+div.bbishop{background:url(img/bbishop.png);}
+
+.PowTransformPanel
+{
+    width:180px;
+    height:45px;
+    border:2px solid gray;
+    background:white;
+    position:absolute;
+}
+
+.BoardOverlay
+{
+    border: 2px solid black;
+    bottom: 0;
+    left: 0;
+    opacity: 0.3;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background:white;
+}
+
+.left{float:left;}
+.pointer{cursor:pointer;}
